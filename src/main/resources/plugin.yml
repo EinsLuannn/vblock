@@ -1,0 +1,4 @@
+name: V-Block
+version: '${project.version}'
+main: de.varilx.vblock.Main
+api-version: 1.19
